@@ -24,5 +24,11 @@
     "graphql": "^16.11.0",
     "jsonwebtoken": "^9.0.2",
     "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2",
+    "sinon": "^21.0.0",
+    "supertest": "^7.1.4"
   }
 }
